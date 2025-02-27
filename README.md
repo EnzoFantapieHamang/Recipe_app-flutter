@@ -1,43 +1,12 @@
 # Recipe_app-flutter
 
-It's a little application in flutter i did it in order to learn new concepts and training myself. This application allow you to
-
-![badge-status](https://img.shields.io/badge/status-active-brightgreen)
+It's a little application in flutter i did it in order to learn new concepts and training myself. This application allow you to create recipes and look at the ingredients more later if you want to cook a certain recipe.
 
 ## Installation
 
-1. Clonez ce dépôt :  
+1. Clone repository :  
    `git clone https://github.com/ton-compte/ton-projet.git`
-2. Installez les dépendances :  
-   `npm install`  (ou `pip install -r requirements.txt` pour un projet Python)
+2. Install dependencies in your project:  
+   `flutter run doctor`
+3. Run Project.
 
-## Usage
-
-Lancez le projet avec la commande suivante :  
-`npm start`  (ou `python app.py`)
-
-## Contribuer
-
-1. Fork ce dépôt.
-2. Créez une nouvelle branche (`git checkout -b feature-xyz`).
-3. Commitez vos changements (`git commit -am 'Ajoute une fonctionnalité'`).
-4. Poussez la branche (`git push origin feature-xyz`).
-5. Soumettez une Pull Request.
-
-## Tests
-
-Exécutez les tests avec :  
-`npm test`  (ou `pytest` pour un projet Python)
-
-## Licence
-
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE).
-
-## Contact
-
-Nom - email@example.com  
-Lien vers le profil GitHub : https://github.com/ton-compte
-
-## Remerciements
-
-Merci à [Nom de la personne/projet] pour son aide dans la création de ce projet !
