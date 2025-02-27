@@ -5,7 +5,7 @@ It's a little application in flutter i did it in order to learn new concepts and
 ## Installation
 
 1. Clone repository :  
-   `git clone https://github.com/ton-compte/ton-projet.git`
+   `git clone https://github.com/EnzoFantapieHamang/Recipe_app-flutter.git`
 2. Install dependencies in your project:  
    `flutter pub get`
 3. Run Project.
