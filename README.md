@@ -1,6 +1,6 @@
 # Recipe_app-flutter
 
-It's a little application in flutter 
+It's a little application in flutter i did it in order to learn new concepts and training myself. This application allow you to
 
 ![badge-status](https://img.shields.io/badge/status-active-brightgreen)
 
